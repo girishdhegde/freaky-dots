@@ -5,7 +5,7 @@ Pattern generation using noise
 clone this repository and execute the following commands:
    ##### to install requirements:
           pip install -r requirements.txt 
-   ##### to try the code:
+## Usage
           python freaky_dots.py
    ###### note: move the sliders slowly to see the patterns
 ## screen-shots
